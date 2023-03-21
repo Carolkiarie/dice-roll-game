@@ -62,7 +62,8 @@ newGame.addEventListener('click', function(){
  scores= [0,0]
  activePlayer= 0
     playing= true
- document.querySelector(`.player--${activePlayer}`).classList.remove('player--winner')
+    player0EL.classList.remove('player--winner')
+    player1EL.classList.remove('player--winner')
  document.querySelector(`.player--${activePlayer}`).classList.add('player--active')
  
 })
