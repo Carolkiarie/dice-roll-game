@@ -1,5 +1,6 @@
 
-Website: 
+Website: https://carolkiarie.github.io/dice-roll-game/
+
 This game dice-roll-game has two players. It allows the players to cumulate their scores and the player who gets to 100. The player wins.
 
 To implement the game there were certain logics that had to be considered.
